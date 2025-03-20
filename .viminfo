@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1742467083,,"wq!"
+|2,0,1742467481,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,58 @@
 # Registers:
 
 # File marks:
-'0  5  21  ~/index.html
-|4,48,5,21,1742467083,"~/index.html"
-'1  2  0  ~/myfile.txt
-|4,49,2,0,1742467002,"~/myfile.txt"
-'2  1  20  ~/index.html
-|4,50,1,20,1742466639,"~/index.html"
-'3  1  20  ~/index.html
-|4,51,1,20,1742466639,"~/index.html"
+'0  8  0  ~/index.html
+|4,48,8,0,1742467481,"~/index.html"
+'1  3  0  ~/myfile.txt
+|4,49,3,0,1742467276,"~/myfile.txt"
+'2  5  21  ~/index.html
+|4,50,5,21,1742467083,"~/index.html"
+'3  5  21  ~/index.html
+|4,51,5,21,1742467083,"~/index.html"
+'4  4  0  ~/myfile.txt
+|4,52,4,0,1742467002,"~/myfile.txt"
+'5  2  0  ~/myfile.txt
+|4,53,2,0,1742467002,"~/myfile.txt"
+'6  1  20  ~/index.html
+|4,54,1,20,1742466639,"~/index.html"
+'7  1  20  ~/index.html
+|4,55,1,20,1742466639,"~/index.html"
+'8  1  20  ~/index.html
+|4,56,1,20,1742466639,"~/index.html"
+'9  1  20  ~/index.html
+|4,57,1,20,1742466639,"~/index.html"
 
 # Jumplist (newest first):
+-'  8  0  ~/index.html
+|4,39,8,0,1742467481,"~/index.html"
+-'  5  21  ~/index.html
+|4,39,5,21,1742467456,"~/index.html"
+-'  3  0  ~/myfile.txt
+|4,39,3,0,1742467276,"~/myfile.txt"
+-'  3  0  ~/myfile.txt
+|4,39,3,0,1742467276,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1742467240,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1742467240,"~/myfile.txt"
+-'  5  21  ~/index.html
+|4,39,5,21,1742467083,"~/index.html"
 -'  5  21  ~/index.html
 |4,39,5,21,1742467083,"~/index.html"
 -'  1  20  ~/index.html
 |4,39,1,20,1742467065,"~/index.html"
+-'  1  20  ~/index.html
+|4,39,1,20,1742467065,"~/index.html"
+-'  1  20  ~/index.html
+|4,39,1,20,1742467065,"~/index.html"
+-'  4  0  ~/myfile.txt
+|4,39,4,0,1742467002,"~/myfile.txt"
+-'  2  0  ~/myfile.txt
+|4,39,2,0,1742467002,"~/myfile.txt"
+-'  2  0  ~/myfile.txt
+|4,39,2,0,1742467002,"~/myfile.txt"
+-'  4  0  ~/myfile.txt
+|4,39,4,0,1742467002,"~/myfile.txt"
 -'  2  0  ~/myfile.txt
 |4,39,2,0,1742467002,"~/myfile.txt"
 -'  2  0  ~/myfile.txt
@@ -47,6 +85,14 @@
 |4,39,1,0,1742466975,"~/myfile.txt"
 -'  1  0  ~/myfile.txt
 |4,39,1,0,1742466975,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1742466975,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1742466975,"~/myfile.txt"
+-'  1  20  ~/index.html
+|4,39,1,20,1742466639,"~/index.html"
+-'  1  20  ~/index.html
+|4,39,1,20,1742466639,"~/index.html"
 -'  1  20  ~/index.html
 |4,39,1,20,1742466639,"~/index.html"
 -'  1  20  ~/index.html
@@ -55,17 +101,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1742467080	0
-	"	5	21
-	^	5	22
-	.	5	21
+	*	1742467475	0
+	"	8	0
+	^	8	0
+	.	7	24
 	+	1	20
 	+	5	21
+	+	7	24
 	y	1	0
 
 > ~/myfile.txt
-	*	1742466997	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	2	0
+	*	1742467271	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	4	0
